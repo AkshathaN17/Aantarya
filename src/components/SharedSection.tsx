@@ -145,6 +145,15 @@ const SharedSection: React.FC = () => {
                   <Clock className="w-4 h-4 mr-1" />
                   <span>Est. {eatery.established}</span>
                 </div>
+                <a
+                  href={eatery.arViewUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="absolute bottom-3 right-3 inline-flex items-center text-sage bg-earth/10 hover:bg-earth/20 transition-colors px-3 py-2 rounded-md text-sm"
+                >
+                  <span>View in AR</span>
+                </a>
+
                 <button
                   onClick={() => setSelectedEatery(selectedEatery === eatery.id ? null : eatery.id)}
                   className="flex items-center text-sage hover:text-sage/80 transition-colors"
@@ -172,14 +181,6 @@ const SharedSection: React.FC = () => {
           ))}
         </div>
       )}
-
-      {/* AR Preview Notice */}
-      <div className="mt-8 bg-sage/10 rounded-lg p-4">
-        <p className="text-earth/80 text-sm">
-          Coming Soon: AR navigation feature that will help you explore these locations with 
-          interactive markers and historical information overlays.
-        </p>
-      </div>
     </div>
   );
 };
