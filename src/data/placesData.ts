@@ -95,10 +95,11 @@ export const historicalPlaces: Place[] = [
   name: 'Dodda Alada Mara (Big Banyan Tree)',
   description: 'A sprawling banyan tree covering over 3 acres, a serene spot perfect for nature lovers.',
   history: 'Located in the village of Kethohalli, the Dodda Alada Mara is over 400 years old. It is one of the largest banyan trees in India, with thousands of aerial roots creating a natural canopy. Revered for its longevity and cultural significance, the site is a peaceful retreat and a popular picnic destination for Bangaloreans.',
-  imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/8/81/Dodda_Alada_Mara.jpg',
+  imageUrl: 'https://bangaloretourism.in/images/v2/headers/dodda-alada-mara-bangalore-timings-entry-fee-bangalore-tourism-header-cr-ayushchh-04.jpg',
   fallbackImageUrl: 'https://images.unsplash.com/photo-1554782957-daeaa3a58a0e?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjc0OXwwfDF8c2VhcmNofDJ8fGJhbnlhbiUyMHRyZWV8ZW58MHx8fHwxNjcwMTc0MjI3&ixlib=rb-1.2.1&q=80&w=1080',
   streetViewUrl: 'https://www.google.com/maps/@12.9238588,77.386471,3a,75y,0h,80t/data=!3m7!1e1!3m5!1sAF1QipNU5n3VgHQPKs5oM6DwCZXKzXEzJtt7-uG8g2z9!2e10!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNU5n3VgHQPKs5oM6DwCZXKzXEzJtt7-uG8g2z9%3Dw900-h600-k-no-pi0-ya12.499993-ro0-fo100!7i8704!8i4352?entry=ttu'
 }
+
 
   
 ];
