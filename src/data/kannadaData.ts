@@ -65,19 +65,34 @@ export const kannadaData: KannadaSection[] = [
     ]
   },
   {
-    title: "Common Phrases (ಸಾಮಾನ್ಯ ಪದಗಳು)",
-    description: "Essential everyday phrases",
+    title: "Greetings (ಹಲೋ)",
+    description: "Essential greetings and basic phrases",
     words: [
-      { id: "phr1", kannada: "ನಮಸ್ಕಾರ", english: "Hello", pronunciation: "namaskara" },
-      { id: "phr2", kannada: "ಧನ್ಯವಾದ", english: "Thank you", pronunciation: "dhanyavada" },
-      { id: "phr3", kannada: "ಹೇಗಿದ್ದೀರಾ", english: "How are you?", pronunciation: "hegiddira" },
-      { id: "phr4", kannada: "ನನಗೆ ಬಹುದೂರ ಕನ್ನಡ ಬರುತ್ತೆ", english: "I know very little Kannada", pronunciation: "nanage bahudura kannada barutte" },
-      { id: "phr5", kannada: "ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ", english: "A little bit", pronunciation: "swalpa swalpa" },
-      { id: "phr6", kannada: "ಎಷ್ಟು", english: "How much?", pronunciation: "eshtu" },
-      { id: "phr7", kannada: "ನನ್ನ ಹೆಸರು", english: "My name is", pronunciation: "nanna hesaru" },
-      { id: "phr8", kannada: "ಊಟ ಆಯ್ತಾ?", english: "Had food?", pronunciation: "oota ayta" }
+        { id: "phr1", kannada: "ನಮಸ್ಕಾರ", english: "Hello", pronunciation: "namaskara" },
+        { id: "phr3", kannada: "ಹೇಗಿದ್ದೀರಾ", english: "How are you?", pronunciation: "hegiddira" },
+        { id: "phr2", kannada: "ಧನ್ಯವಾದ", english: "Thank you", pronunciation: "dhanyavada" },
     ]
-  },
+},
+{
+    title: "Basic Communication (ಮೂಲಭೂತ ಸಂವಹನ)",
+    description: "Phrases for everyday communication",
+    words: [
+        { id: "phr4", kannada: "ನನಗೆ ಬಹುದೂರ ಕನ್ನಡ ಬರುತ್ತೆ", english: "I know very little Kannada", pronunciation: "nanage bahudura kannada barutte" },
+        { id: "phr5", kannada: "ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ", english: "A little bit", pronunciation: "swalpa swalpa" },
+        { id: "phr6", kannada: "ಎಷ್ಟು", english: "How much?", pronunciation: "eshtu" },
+        { id: "phr7", kannada: "ನನ್ನ ಹೆಸರು", english: "My name is", pronunciation: "nanna hesaru" },
+        { id: "phr8", kannada: "ಊಟ ಆಯ್ತಾ?", english: "Had food?", pronunciation: "oota ayta" }
+    ]
+},
+{
+    title: "Requests & Questions (ವಿನಂತಿಗಳು ಮತ್ತು ಪ್ರಶ್ನೆಗಳು)",
+    description: "Common phrases for asking questions and making requests",
+    words: [
+        { id: "phr10", kannada: "ನನಗೆ ನೆರವು ಬೇಕು", english: "I need help", pronunciation: "nanage neravu beku" },
+        { id: "phr17", kannada: "ದಯವಿಟ್ಟು ಕಾತರಿಸಬೇಡಿ", english: "Please wait", pronunciation: "dayavittu kaatarisabedi" },
+        { id: "phr18", kannada: "ನೀವು ಬರುವುದೆ?", english: "Will you come?", pronunciation: "neevu baruvude?" }
+    ]
+},
   {
     title: "Relationship Nouns (ಸಂಬಂಧದ ನಾಮಪದಗಳು)",
     description: "Essential terms for relationships",
@@ -101,6 +116,36 @@ export const kannadaData: KannadaSection[] = [
         { id: "rel16", kannada: "ಸ್ನೇಹಿತೆ", english: "Female Friend", pronunciation: "sneehite" },
         { id: "rel17", kannada: "ಸ್ನೇಹಿತ", english: "Male Friend", pronunciation: "sneehita" },
       ]
+      
+    
+  },
+  {
+    title: "Fruits & Vegetables (ಹಣ್ಣುಗಳು ಮತ್ತು ತರಕಾರಿಗಳು)",
+    description: "Common fruits and vegetables in Kannada",
+    words: [
+    // Fruits
+    { id: "fv1", kannada: "ಸಾಪೋಟಾ", english: "Sapota (Chikoo)", pronunciation: "saapota" },
+    { id: "fv2", kannada: "ಆಪಲ್", english: "Apple", pronunciation: "seebu" },
+    { id: "fv3", kannada: "ಬಾಳೆಹಣ್ಣು", english: "Banana", pronunciation: "baalehannu" },
+    { id: "fv4", kannada: "ದ್ರಾಕ್ಷಿ", english: "Grapes", pronunciation: "draakshi" },
+    { id: "fv5", kannada: "ಮಿತ್ತಾಯಿ", english: "Mango", pronunciation: "maavinahannu" },
+    { id: "fv6", kannada: "ಕಿತ್ತಳೆ", english: "Orange", pronunciation: "kittalehannu" },
+    { id: "fv7", kannada: "ಬಿಸ್ಸಳೆ", english: "Pineapple", pronunciation: "bissale" },
+    { id: "fv8", kannada: "ಮಳ್ಳಿಗೆ", english: "Papaya", pronunciation: "parangihannu" },
+    { id: "fv9", kannada: "ಹಣ್ಣಿನ ಕಾಯಿ", english: "Lemon", pronunciation: "nimbe hannu" },
+    { id: "fv10", kannada: "ಕಿತ್ತಳೆ ಹಣ್ಣು", english: "Pomegranate", pronunciation: "draalimbe" },
+
+    // Vegetables
+    { id: "fv11", kannada: "ಕೋಸು", english: "Cabbage", pronunciation: "kosu" },
+    { id: "fv12", kannada: "ಆಲೂಕು", english: "Potato", pronunciation: "aalooku" },
+    { id: "fv13", kannada: "ಮಾತು", english: "Tomato", pronunciation: "maatu" },
+    { id: "fv14", kannada: "ಗೋಸ್ಕು", english: "Cucumber", pronunciation: "goosku" },
+    { id: "fv15", kannada: "ಹುರುಳಿಕಾಯಿ", english: "Ladyfinger (Okra)", pronunciation: "hurulikayi" },
+    { id: "fv16", kannada: "ಹೆರಕ", english: "Brinjal (Eggplant)", pronunciation: "heraka" },
+    { id: "fv17", kannada: "ಬೇಸಿ", english: "Carrot", pronunciation: "besi" },
+    { id: "fv18", kannada: "ಬೀನ್ಸ್", english: "Beans", pronunciation: "beens" }
+]
+
       
     
   },
