@@ -62,5 +62,34 @@ export const historicalPlaces: Place[] = [
     imageUrl:'https://th-i.thgim.com/public/incoming/2kxf4b/article67443784.ece/alternates/FREE_1200/Gandhi_Bazar_05.jpg',
     fallbackImageUrl: 'https://images.unsplash.com/photo-1582636714834-3ca8e6f6c46d?auto=format&fit=crop&q=80',
     streetViewUrl:'https://www.google.com/maps/place/Gandhi+Bazaar+Flower+Market/@12.9451615,77.5717031,3a,21.1y,240.24h,84.18t/data=!3m7!1e1!3m5!1s7HPbeQhdbovMnb7JcqFZIg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.816847687257507%26panoid%3D7HPbeQhdbovMnb7JcqFZIg%26yaw%3D240.23945180156537!7i13312!8i6656!4m14!1m7!3m6!1s0x3bae15f2e99d28ad:0x2c1d13e2af315f6c!2sGandhi+Bazaar+Flower+Market!8m2!3d12.9449464!4d77.5724053!16s%2Fg%2F11cssk8ps3!3m5!1s0x3bae15f2e99d28ad:0x2c1d13e2af315f6c!8m2!3d12.9449464!4d77.5724053!16s%2Fg%2F11cssk8ps3!5m1!1e1?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D'
-  }
+  },
+  {
+    id: 'chickpet',
+    name: 'Chickpet',
+    description: 'A historic marketplace known for its bustling streets, diverse shops, and vibrant atmosphere.',
+    history: 'Chickpet, one of Bangalore’s oldest markets, dates back to the 16th century. Originally a trade center for merchants, it has evolved into a vibrant commercial hub, known for its wholesale textile shops, old-school goldsmiths, and vibrant street vendors. The area holds historical significance, reflecting Bangalore’s heritage, blending traditional commerce with modern-day hustle and bustle.',
+    imageUrl: 'https://im.whatshot.in/img/2020/Jun/1495696269-horizontal-6-1547031124-1592899162.jpg',
+    fallbackImageUrl: 'https://images.unsplash.com/photo-1599930113854-d6d7fd521f10?auto=format&fit=crop&q=80&w=1000',
+    streetViewUrl: 'https://www.google.com/maps/@12.9713658,77.5764999,3a,75y,15.72h,72.09t/data=!3m7!1e1!3m5!1sjF5mYooh8tEAdBu1E6dPJw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D17.906672810838955%26panoid%3DjF5mYooh8tEAdBu1E6dPJw%26yaw%3D15.715620297304213!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D'
+  },
+  {
+    id: 'bannerghatta-national-park',
+    name: 'Bannerghatta National Park',
+    description: 'A sprawling park with a zoo, butterfly park, and safari, perfect for nature and wildlife lovers.',
+    history: 'Established in 1970, Bannerghatta Biological Park covers 1,100 hectares and was set up to provide a safe haven for wildlife. Originally a part of the Mysore Maharaja’s hunting grounds, it has since evolved into a conservation center, housing rare species such as tigers, lions, and elephants. The park also features a butterfly park and is known for its successful breeding programs aimed at preserving endangered species.',
+    imageUrl: 'https://static.toiimg.com/photo/40193882.cms',
+    fallbackImageUrl: 'https://images.unsplash.com/photo-1564582686-b8e4a013a813?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjc0OXwwfDF8c2VhcmNofDkwfGJlYWxlcnklMjBhbmR8ZW58MHx8fHwxNjcwMTc0MjI3&ixlib=rb-1.2.1&q=80&w=1080',
+    streetViewUrl: 'https://www.google.com/maps/@12.8003114,77.5727436,3a,75y,158.7h,68.91t/data=!3m7!1e1!3m5!1sAF1QipOkgUIOU5ZRendwrciiYk1sqxFf-t39k2iDywbM!2e10!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOkgUIOU5ZRendwrciiYk1sqxFf-t39k2iDywbM%3Dw900-h600-k-no-pi21.088771535452878-ya222.84119297396398-ro0-fo100!7i12000!8i6000?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D'
+},
+{
+  id: 'malleswaram',
+  name: 'Malleswaram',
+  description: 'A historic neighborhood with traditional South Indian temples, vibrant street markets, and iconic eateries.',
+  history: 'Malleswaram, one of Bangalore’s oldest neighborhoods, was established in the 19th century and named after the Malleswara Temple, dedicated to Lord Shiva. The area retains much of its old-world charm, with a mix of narrow lanes, traditional homes, bustling local markets, and old-school eateries serving authentic South Indian cuisine.',
+  imageUrl: 'https://bengaluruprayana.com/wp-content/uploads/2023/02/Malleshwaram-Street-Shopping.jpeg',
+  fallbackImageUrl: 'https://images.unsplash.com/photo-1568584592-b55d44d0b67d?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjc0OXwwfDF8c2VhcmNofDN8fG1hbGxlc3dhcmFtfGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=1080',
+  streetViewUrl: 'https://www.google.com/maps/@13.0055221,77.5692025,3a,75y,81.53h,94.71t/data=!3m7!1e1!3m5!1srWha0w5Om-Qg5Pun1_9dBA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.714589039278053%26panoid%3DrWha0w5Om-Qg5Pun1_9dBA%26yaw%3D81.53372269518476!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D'
+}
+
+  
 ];
