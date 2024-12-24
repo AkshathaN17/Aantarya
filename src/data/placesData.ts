@@ -89,7 +89,17 @@ export const historicalPlaces: Place[] = [
   imageUrl: 'https://bengaluruprayana.com/wp-content/uploads/2023/02/Malleshwaram-Street-Shopping.jpeg',
   fallbackImageUrl: 'https://images.unsplash.com/photo-1568584592-b55d44d0b67d?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjc0OXwwfDF8c2VhcmNofDN8fG1hbGxlc3dhcmFtfGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=1080',
   streetViewUrl: 'https://www.google.com/maps/@13.0055221,77.5692025,3a,75y,81.53h,94.71t/data=!3m7!1e1!3m5!1srWha0w5Om-Qg5Pun1_9dBA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.714589039278053%26panoid%3DrWha0w5Om-Qg5Pun1_9dBA%26yaw%3D81.53372269518476!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D'
+},
+{
+  id: 'dodda-alada-mara',
+  name: 'Dodda Alada Mara (Big Banyan Tree)',
+  description: 'A sprawling banyan tree covering over 3 acres, a serene spot perfect for nature lovers.',
+  history: 'Located in the village of Kethohalli, the Dodda Alada Mara is over 400 years old. It is one of the largest banyan trees in India, with thousands of aerial roots creating a natural canopy. Revered for its longevity and cultural significance, the site is a peaceful retreat and a popular picnic destination for Bangaloreans.',
+  imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/8/81/Dodda_Alada_Mara.jpg',
+  fallbackImageUrl: 'https://images.unsplash.com/photo-1554782957-daeaa3a58a0e?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjc0OXwwfDF8c2VhcmNofDJ8fGJhbnlhbiUyMHRyZWV8ZW58MHx8fHwxNjcwMTc0MjI3&ixlib=rb-1.2.1&q=80&w=1080',
+  streetViewUrl: 'https://www.google.com/maps/@12.9238588,77.386471,3a,75y,0h,80t/data=!3m7!1e1!3m5!1sAF1QipNU5n3VgHQPKs5oM6DwCZXKzXEzJtt7-uG8g2z9!2e10!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNU5n3VgHQPKs5oM6DwCZXKzXEzJtt7-uG8g2z9%3Dw900-h600-k-no-pi0-ya12.499993-ro0-fo100!7i8704!8i4352?entry=ttu'
 }
+
 
   
 ];
