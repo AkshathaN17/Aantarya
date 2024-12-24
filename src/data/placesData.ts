@@ -53,5 +53,14 @@ export const historicalPlaces: Place[] = [
     imageUrl: 'https://i.pinimg.com/736x/3e/0f/fa/3e0ffade4721e5277fab72c1e6bcb7b8.jpg',
     fallbackImageUrl: 'https://images.unsplash.com/photo-1582636714834-3ca8e6f6c46d?auto=format&fit=crop&q=80',
     streetViewUrl: 'https://www.google.com/maps/@12.9754448,77.5968018,3a,75y,238.46h,72.45t/data=!3m8!1e1!3m6!1sAF1QipOubcCtXWnpXBzNz0EEVAcmIrPfW4o0rEc9Ec2O!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOubcCtXWnpXBzNz0EEVAcmIrPfW4o0rEc9Ec2O%3Dw900-h600-k-no-pi17.551225600770977-ya238.45929685044283-ro0-fo100!7i6080!8i3040?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D'
+  },
+  {
+    id:'gandhi-bazaar',
+    name:'Gandhi Bazzar',
+    description: 'A timeless market where the old-world charm of flower stalls and vintage shops meets the pulse of modern Bangalore.',
+    history:'Gandhi Bazaar, nestled in Basavanagudi, is a vibrant blend of tradition and modernity. Known for its bustling flower market and aromatic street food, it offers an authentic taste of Bangalore’s cultural essence. The area also features family-run silk shops, vintage bookstores, and handcrafted goods, alongside the spiritual significance of the nearby Bull Temple, making it a hidden gem.',
+    imageUrl:'https://th-i.thgim.com/public/incoming/2kxf4b/article67443784.ece/alternates/FREE_1200/Gandhi_Bazar_05.jpg',
+    fallbackImageUrl: 'https://images.unsplash.com/photo-1582636714834-3ca8e6f6c46d?auto=format&fit=crop&q=80',
+    streetViewUrl:'https://www.google.com/maps/place/Gandhi+Bazaar+Flower+Market/@12.9451615,77.5717031,3a,21.1y,240.24h,84.18t/data=!3m7!1e1!3m5!1s7HPbeQhdbovMnb7JcqFZIg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.816847687257507%26panoid%3D7HPbeQhdbovMnb7JcqFZIg%26yaw%3D240.23945180156537!7i13312!8i6656!4m14!1m7!3m6!1s0x3bae15f2e99d28ad:0x2c1d13e2af315f6c!2sGandhi+Bazaar+Flower+Market!8m2!3d12.9449464!4d77.5724053!16s%2Fg%2F11cssk8ps3!3m5!1s0x3bae15f2e99d28ad:0x2c1d13e2af315f6c!8m2!3d12.9449464!4d77.5724053!16s%2Fg%2F11cssk8ps3!5m1!1e1?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D'
   }
 ];
