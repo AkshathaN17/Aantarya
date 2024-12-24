@@ -7,6 +7,7 @@ interface Eatery {
   location: string;
   established: string;
   imageUrl: string;
+  arViewUrl: string;
 }
 
 export const eateries: Eatery[] = [
@@ -18,7 +19,8 @@ export const eateries: Eatery[] = [
     category: 'South Indian',
     location: 'Gandhi Bazaar, Basavanagudi',
     established: '1943',
-    imageUrl: 'https://media-cdn.tripadvisor.com/media/photo-s/12/be/b0/91/the-popular-masala-dosa.jpg'
+    imageUrl: 'https://imgmediagumlet.lbb.in/media/2017/10/59e60f3771bcd60e10287592_588c1a3f90cd0e15f04de93f_1508249399280.jpg',
+    arViewUrl: 'https://mywebar.com/p/Project_3_2invc2cx79'
   },
   {
     id: 'mtr',
@@ -28,7 +30,8 @@ export const eateries: Eatery[] = [
     category: 'South Indian',
     location: 'Lalbagh Road',
     established: '1924',
-    imageUrl: 'https://4.bp.blogspot.com/-kRH__VosQj8/UenzTcz-ilI/AAAAAAAATjE/01JvjZ-ZyZ8/s1600/MTR.jpg'
+    imageUrl: 'https://4.bp.blogspot.com/-kRH__VosQj8/UenzTcz-ilI/AAAAAAAATjE/01JvjZ-ZyZ8/s1600/MTR.jpg',
+    arViewUrl: 'https://mywebar.com/p/Project_4_8kvqi2hpr3'
   },
   {
     id: 'ctr',
@@ -38,7 +41,8 @@ export const eateries: Eatery[] = [
     category: 'South Indian',
     location: 'Malleshwaram',
     established: '1920',
-    imageUrl: 'https://static.tripzilla.in/media/5084/conversions/15bb108f-fc52-4cf5-9d22-3342e78ec683-w768.webp'
+    imageUrl: 'https://static.tripzilla.in/media/5084/conversions/15bb108f-fc52-4cf5-9d22-3342e78ec683-w768.webp',
+    arViewUrl: 'https://mywebar.com/p/Project_2_f51md28cj8'
   },
   {
     id: 'brahmin-coffee-bar',
@@ -48,7 +52,8 @@ export const eateries: Eatery[] = [
     category: 'South Indian',
     location: 'Shankarapuram',
     established: '1965',
-    imageUrl: 'https://www.sheknowsgrub.com/wp-content/uploads/2016/05/DSC_0703-1024x678.jpg'
+    imageUrl: 'https://www.sheknowsgrub.com/wp-content/uploads/2016/05/DSC_0703-1024x678.jpg',
+    arViewUrl: 'https://mywebar.com/p/Project_2_p12xrw68ej'
   },
   {
     id: 'veena-stores',
@@ -58,7 +63,8 @@ export const eateries: Eatery[] = [
     category: 'South Indian',
     location: 'Malleshwaram',
     established: '1977',
-    imageUrl: 'https://im.whatshot.in/img/2020/Jul/veena-stores-is-cropped-1595229176.png'
+    imageUrl: 'https://pbs.twimg.com/media/FB6ETNNVkAIRrFZ.jpg:large',
+    arViewUrl: 'https://mywebar.com/p/Project_0_88xhckn3w7'
   },
   {
     id: 'halli-mane',
@@ -68,6 +74,7 @@ export const eateries: Eatery[] = [
     category: 'South Indian',
     location: 'Malleshwaram',
     established: '1990',
-    imageUrl: 'https://content3.jdmagicbox.com/v2/comp/bangalore/i7/080pxx80.xx80.180824183056.l1i7/catalogue/hallimane-food-factory-bangalore-restaurants-ce2wgwbm86.jpg'
+    imageUrl: 'https://b.zmtcdn.com/data/pictures/7/51967/f058ee69d80346a84d9d67214a4dfc07.jpg?fit=around|750:500&crop=750:500;*,*',
+    arViewUrl: 'https://mywebar.com/p/Project_1_zuirjmb7wm'
   }
 ];
