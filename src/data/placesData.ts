@@ -100,6 +100,5 @@ export const historicalPlaces: Place[] = [
   streetViewUrl: 'https://www.google.com/maps/@12.9238588,77.386471,3a,75y,0h,80t/data=!3m7!1e1!3m5!1sAF1QipNU5n3VgHQPKs5oM6DwCZXKzXEzJtt7-uG8g2z9!2e10!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNU5n3VgHQPKs5oM6DwCZXKzXEzJtt7-uG8g2z9%3Dw900-h600-k-no-pi0-ya12.499993-ro0-fo100!7i8704!8i4352?entry=ttu'
 }
 
-
   
 ];
