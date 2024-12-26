@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div className="relative overflow-hidden">
       <div className="relative pt-16 pb-32">
-        <div className="mt-12 mx-auto max-w-7xl px-4 sm:mt-16">
+        <div className="mt-0 mx-auto max-w-7xl px-4 sm:mt-16">
           <div className="text-center">
             <h1 className="text-4xl tracking-tight font-bold text-earth sm:text-5xl md:text-6xl">
               <span className="block">Welcome to</span>
@@ -50,7 +50,7 @@ interface FeatureCardProps {
 const FeatureCard: React.FC<FeatureCardProps> = ({ icon, title, description }) => {
   return (
     <div className="relative bg-white/50 backdrop-blur-sm p-6 rounded-xl shadow-sm hover:shadow-md transition-shadow">
-      <div className="absolute top-2 left-6">{icon}</div> {/* Adjusted top further */}
+      <div className="absolute top-4 left-6">{icon}</div> {/* Adjusted top further */}
       <div className="pt-8"> {/* Reduced padding to push text up */}
         <h3 className="text-xl font-medium text-earth">{title}</h3>
         <p className="mt-2 text-earth/70">{description}</p>
