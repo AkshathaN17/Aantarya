@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { MapPin, Clock, Coffee, Info, ChevronRight, ImageOff } from 'lucide-react';
-import { historicalPlaces } from '../Aantary/data/placesData';
-import { eateries } from '../Aantary/data/eateriesData';
+import { historicalPlaces } from '../Aantarya/data/placesData';
+import { eateries } from '../Aantarya/data/eateriesData';
 
 const SharedSection: React.FC = () => {
   const [activeTab, setActiveTab] = useState<'places' | 'eateries'>('places');
