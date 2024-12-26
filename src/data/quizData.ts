@@ -203,7 +203,7 @@ export const quizQuestions: QuizQuestion[] = [
     {
         id: 208,
         question: "Which is the best-known vegetarian snack in Bengaluru made with rice, green chilies, and a tangy tamarind flavor, served as a quick snack in local eateries?",
-        options: ["Puliyodarai", "Bisi Bele Bath", "Dosa", "Idli"],
+        options: ["Puliyogare", "Bisi Bele Bath", "Dosa", "Idli"],
         correctAnswer: 0,
         fact: "Puliyodarai is a tangy tamarind rice made with rice, tamarind paste, peanuts, and spices. It’s often served as a snack or light meal in Bengaluru.",
         category: "Flavors of Bengaluru"
