@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import Navbar from './Aantary/components/Navbar';
-import Hero from './Aantary/components/Hero';
-import LocalsSection from './Aantary/components/LocalsSection';
-import NonLocalsSection from './Aantary/components/NonLocalsSection';
-import SharedSection from './Aantary/components/SharedSection';
+import Navbar from './Aantarya/components/Navbar';
+import Hero from './Aantarya/components/Hero';
+import LocalsSection from './Aantarya/components/LocalsSection';
+import NonLocalsSection from './Aantarya/components/NonLocalsSection';
+import SharedSection from './Aantarya/components/SharedSection';
 
 type Section = 'home' | 'locals' | 'nonlocals' | 'shared';
 
