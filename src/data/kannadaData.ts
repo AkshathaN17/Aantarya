@@ -76,21 +76,48 @@ export const kannadaData: KannadaSection[] = [
 {
     title: "Basic Communication (ಮೂಲಭೂತ ಸಂವಹನ)",
     description: "Phrases for everyday communication",
-    words: [
-        { id: "phr4", kannada: "ನನಗೆ ಬಹುದೂರ ಕನ್ನಡ ಬರುತ್ತೆ", english: "I know very little Kannada", pronunciation: "nanage bahudura kannada barutte" },
-        { id: "phr5", kannada: "ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ", english: "A little bit", pronunciation: "swalpa swalpa" },
-        { id: "phr6", kannada: "ಎಷ್ಟು", english: "How much?", pronunciation: "eshtu" },
-        { id: "phr7", kannada: "ನನ್ನ ಹೆಸರು", english: "My name is", pronunciation: "nanna hesaru" },
-        { id: "phr8", kannada: "ಊಟ ಆಯ್ತಾ?", english: "Had food?", pronunciation: "oota ayta" }
-    ]
+    words:[
+      { 
+          id: "phr4", kannada: "ಸ್ವಲ್ಪ ಕನ್ನಡ ಗೊತ್ತು", english: "I know a little Kannada", pronunciation: "swalpa kannada gottu"
+      },
+      { 
+          id: "phr5", kannada: "ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ", english: "A little bit", pronunciation: "swalpa swalpa"
+      },
+      { 
+          id: "phr6", kannada: "ಎಷ್ಟು", english: "How much?", pronunciation: "eshtu"
+      },
+      { 
+          id: "phr7", kannada: "ನನ್ನ ಹೆಸರು", english: "My name is", pronunciation: "nanna hesaru"
+      },
+      { 
+          id: "phr8", kannada: "ಊಟ ಆಯ್ತಾ?", english: "Had food?", pronunciation: "oota ayta"
+      },
+      { 
+          id: "phr9", kannada: "ಮಾಡಿ", english: "Do", pronunciation: "madi"
+      },
+      { 
+          id: "phr10", kannada: "ನಾನು ಮಾಡ್ತಿದ್ದೇನೆ", english: "I am doing it", pronunciation: "naanu maadtaiddini"
+      },
+      { 
+        id: "phr11", 
+        kannada: "ಇಂದಿರಾನಗರಕ್ಕೆ ಒಂದು ಟಿಕೆಟ್ ಕೊಡಿ", 
+        english: "Give me one ticket to Indiranagar.", 
+        pronunciation: "Indiranagarge ondu ticket kodi."
+    },
+    
+  ]
+  
 },
 {
     title: "Requests & Questions (ವಿನಂತಿಗಳು ಮತ್ತು ಪ್ರಶ್ನೆಗಳು)",
     description: "Common phrases for asking questions and making requests",
     words: [
-        { id: "phr10", kannada: "ನನಗೆ ನೆರವು ಬೇಕು", english: "I need help", pronunciation: "nanage neravu beku" },
-        { id: "phr17", kannada: "ದಯವಿಟ್ಟು ಕಾತರಿಸಬೇಡಿ", english: "Please wait", pronunciation: "dayavittu kaatarisabedi" },
-        { id: "phr18", kannada: "ನೀವು ಬರುವುದೆ?", english: "Will you come?", pronunciation: "neevu baruvude?" }
+      { id: "phr10", kannada: "ನನಗೆ ನೆರವು ಬೇಕು", english: "I need help", pronunciation: "nanage neravu beku" },
+      { id: "phr17", kannada: "ದಯವಿಟ್ಟು ಕಾತರಿಸಬೇಡಿ", english: "Please wait", pronunciation: "dayavittu kaatarisabedi" },
+      { id: "phr18", kannada: "ನೀವು ಬರುವುದೆ?", english: "Will you come?", pronunciation: "neevu baruvude?" },
+      { id: "phr19", kannada: "ಇದು ಎಷ್ಟು?", english: "This is how much?", pronunciation: "idu eshtu?" },
+      { id: "phr20", kannada: "ನೀವು ಯಾರು?", english: "Who are you?", pronunciation: "neevu yaaru?" }
+      
     ]
 },
   {
