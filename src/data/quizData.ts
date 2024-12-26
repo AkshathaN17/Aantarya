@@ -179,7 +179,7 @@ export const quizQuestions: QuizQuestion[] = [
     {
         id: 205,
         question: "Which iconic Bengaluru snack is made from ground rice and lentils, fried until crispy, and typically served with chutney?",
-        options: ["Medu Vada", "Pakoda", "Chakkli", "Bhaji"],
+        options: ["Uddina Vada", "Pakoda", "Chakkli", "Bhaji"],
         correctAnswer: 0,
         fact: "Medu Vada is a savory, doughnut-shaped snack made from ground rice and lentils, deep-fried and served with coconut chutney or sambar.",
         category: "Flavors of Bengaluru"
