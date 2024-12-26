@@ -1,7 +1,7 @@
 import React, { useState, useCallback, useEffect } from 'react';
 import { Volume2, ChevronDown, ChevronUp } from 'lucide-react';
-import { kannadaData } from '../Aantary/data/kannadaData';
-import { AudioPlayer } from '../Aantary/utils/audioUtils';
+import { kannadaData } from '../Aantarya/data/kannadaData';
+import { AudioPlayer } from '../Aantarya/utils/audioUtils';
 
 const NonLocalsSection: React.FC = () => {
   const [expandedSection, setExpandedSection] = useState<string | null>(null);
