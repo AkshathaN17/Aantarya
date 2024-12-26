@@ -61,7 +61,7 @@ const LocalsSection: React.FC = () => {
   if (!selectedCategory) {
     return (
       <div className="mt-8">
-        <h2 className="text-3xl font-bold text-earth mb-8">Select a Category</h2>
+        <h2 className="text-3xl font-bold text-earth mb-8">Embark on a Quiz Journey</h2>
         <div className="bg-white/50 backdrop-blur-sm rounded-xl p-8 shadow-sm">
           <ul className="space-y-4">
             {categories.map((category) => (
