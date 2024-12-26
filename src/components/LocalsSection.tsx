@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { quizQuestions, type QuizQuestion } from '../data/quizData';
+import { quizQuestions, type QuizQuestion } from '../Aantary/data/quizData';
 import { CheckCircle2, XCircle, ArrowRight, RotateCcw } from 'lucide-react';
 
 const LocalsSection: React.FC = () => {
