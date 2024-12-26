@@ -105,11 +105,11 @@ export const quizQuestions: QuizQuestion[] = [
     category:  "Echoes of the Past: Places and Their Stories",
   },
   {
-    id: 111,
+     id: 111,
     question: "Which famous Bengaluru street, named after a British general, is known for its iconic colonial-era buildings and historical charm?",
-    options: ["M.G. Road", "Brigade Road", "Church Street", "Cunningham Road"],
+    options: ["Cunningham Road", "Brigade Road", "Church Street", "M.G Road"],
     correctAnswer: 0,
-    fact: "M.G. Road is one of Bengaluru’s most famous streets, known for its colonial-era buildings and historical significance.",
+    fact: "Cunningham Road is one of Bengaluru’s most famous streets, known for its colonial-era buildings and historical significance.",
     category:  "Echoes of the Past: Places and Their Stories",
   },
   {
