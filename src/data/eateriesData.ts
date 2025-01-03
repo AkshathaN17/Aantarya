@@ -20,7 +20,7 @@ export const eateries: Eatery[] = [
     location: 'Gandhi Bazaar, Basavanagudi',
     established: '1943',
     imageUrl: 'https://imgmediagumlet.lbb.in/media/2017/10/59e60f3771bcd60e10287592_588c1a3f90cd0e15f04de93f_1508249399280.jpg',
-    arViewUrl: 'https://mywebar.com/p/Project_3_2invc2cx79'
+    arViewUrl: 'https://mywebar.com/p/Project_2_6kixkv0v6w'
   },
   {
     id: 'mtr',
@@ -31,7 +31,7 @@ export const eateries: Eatery[] = [
     location: 'Lalbagh Road',
     established: '1924',
     imageUrl: 'https://4.bp.blogspot.com/-kRH__VosQj8/UenzTcz-ilI/AAAAAAAATjE/01JvjZ-ZyZ8/s1600/MTR.jpg',
-    arViewUrl: 'https://mywebar.com/p/Project_4_8kvqi2hpr3'
+    arViewUrl: 'https://mywebar.com/p/Project_1_l8662ups4u'
   },
   {
     id: 'ctr',
@@ -42,7 +42,7 @@ export const eateries: Eatery[] = [
     location: 'Malleshwaram',
     established: '1920',
     imageUrl: 'https://static.tripzilla.in/media/5084/conversions/15bb108f-fc52-4cf5-9d22-3342e78ec683-w768.webp',
-    arViewUrl: 'https://mywebar.com/p/Project_2_f51md28cj8'
+    arViewUrl: 'https://mywebar.com/p/Project_3_zzn4zv8t6h'
   },
   {
     id: 'brahmin-coffee-bar',
@@ -53,7 +53,7 @@ export const eateries: Eatery[] = [
     location: 'Shankarapuram',
     established: '1965',
     imageUrl: 'https://www.sheknowsgrub.com/wp-content/uploads/2016/05/DSC_0703-1024x678.jpg',
-    arViewUrl: 'https://mywebar.com/p/Project_2_p12xrw68ej'
+    arViewUrl: 'https://mywebar.com/p/Project_4_amqtivk83r'
   },
   {
     id: 'veena-stores',
@@ -75,6 +75,6 @@ export const eateries: Eatery[] = [
     location: 'Malleshwaram',
     established: '1990',
     imageUrl: 'https://b.zmtcdn.com/data/pictures/7/51967/f058ee69d80346a84d9d67214a4dfc07.jpg?fit=around|750:500&crop=750:500;*,*',
-    arViewUrl: 'https://mywebar.com/p/Project_1_zuirjmb7wm'
+    arViewUrl: 'https://mywebar.com/p/Project_0_e274xw2ghp'
   }
 ];
