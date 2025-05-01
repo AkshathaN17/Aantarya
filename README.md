@@ -50,7 +50,7 @@ Aantarya is an innovative web application built to connect locals and non-locals
 - **Backend**: Node.js
 - **Database**: TypeScript
 - **Maps & Visualization**: Google Maps API + Street View API
-- **Translation API**: Google Translate
+- **Audio API**: Stream Lit API
 
 ---
 
@@ -62,9 +62,51 @@ aantarya/
 ├── src/
 │   ├── components/
 │   ├── pages/
-│   ├── assets/
 │   ├── utils/
 │   └── App.js
 ├── .env
 ├── package.json
 └── README.md
+
+## 🚧 Installation
+Prerequisites
+Node.js >= 14
+npm or yarn
+
+Steps
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/aantarya.git
+cd aantarya
+npm install
+npm run dev
+Then open http://localhost:3000 in your browser.
+
+✍️ Contributing
+Contributions are welcome! Please follow these steps:
+
+Fork the repository
+
+Create your branch: git checkout -b feature-name
+
+Commit your changes: git commit -m "Add new feature"
+
+Push to the branch: git push origin feature-name
+
+Submit a pull request
+
+📜 License
+MIT License
+
+📣 Acknowledgements
+Cultural inputs from Bengaluru locals and historians
+
+Datasets and support from community-driven archives
+
+API & tech support from Google Maps, Translate, and WebXR communities
+
+🌟 Why Aantarya?
+In an era of mass tourism and digital noise, Aantarya reimagines urban exploration—making it personal, meaningful, and authentic.
+
+“Aantarya connects people not just to places, but to stories that shape them.”
