@@ -1,2 +1,70 @@
-# Aantarya
-DTL project
+# Aantarya 🌏📱 | Bridging Cultures through Immersive Exploration
+
+Aantarya is an innovative web application built to connect locals and non-locals in **Bengaluru** through culture, language, and technology. By integrating Augmented Reality (AR), interactive quizzes, and guided explorations, Aantarya offers an authentic and immersive experience of the city’s vibrant heritage.
+
+---
+
+## 🚀 Features
+
+### 🌍 For Locals
+- **Interactive Quizzes** (4 Categories):
+  - 📍 Places
+  - 🍲 Food
+  - 🎎 Tradition & Events
+  - 🏛️ History
+- Rediscover Bengaluru’s essence through engaging content.
+- Boost cultural pride and knowledge.
+
+### ✨ For Non-Locals
+- **Kannada Translation + Pronunciation**: Basic communication made accessible.
+- **Hidden Gems**: Explore Bengaluru beyond typical tourist trails.
+
+### 🔍 Explore Section
+- **Storied Landmarks**: 10 iconic sites with:
+  - Cultural backstories ("Legacy Bits")
+  - Integrated Google Street View for virtual touring
+- **Authentic Eateries**: 6 legendary food spots with:
+  - Augmented Reality (AR) overlays of signature dishes
+  - Insights into local food culture
+
+### 🧠 Technology Highlights
+- 🌐 **Web-based UI**: Accessible, responsive, and inclusive
+- 🕶️ **AR Integration**: Overlay historical and culinary info in real-world settings
+- 📱 **Mobile-First Design**: Explore on the go
+
+---
+
+## 📸 Screenshots
+
+*Coming Soon* — Images showcasing:
+- The quiz interface
+- AR food visualizations
+- Landmark navigation view
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: TypeScript
+- **AR Integration**: MYWebAR
+- **Backend**: Node.js
+- **Database**: TypeScript
+- **Maps & Visualization**: Google Maps API + Street View API
+- **Translation API**: Google Translate
+
+---
+
+## 📂 Project Structure
+
+```bash
+aantarya/
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   ├── utils/
+│   └── App.js
+├── .env
+├── package.json
+└── README.md
