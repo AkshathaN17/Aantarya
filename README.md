@@ -37,11 +37,10 @@ Aantarya is an innovative web application built to connect locals and non-locals
 ## 🛠️ Tech Stack
 
 - **Frontend**: React / Next.js
-- **AR Integration**: WebXR / 8thWall / A-Frame (based on implementation)
+- **AR Integration**: MyWebAR
 - **Backend**: Node.js + Express
-- **Database**: MongoDB / Firebase (optional)
 - **Maps & Visualization**: Google Maps API + Street View API
-- **Translation API**: Google Translate / Custom Kannada Dataset
+- **Translation API**: Google Translate, StreamLit API
 
 ---
 
